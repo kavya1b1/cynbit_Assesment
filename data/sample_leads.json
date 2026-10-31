@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "company": "Northstar Retail",
+    "email": "aarav@example.com",
+    "website": "https://example.com",
+    "message": "We need an AI-powered customer support automation system to classify tickets, summarize conversations and route urgent issues to the right department. We want CRM integration and a pilot within six weeks.",
+    "budget": "high",
+    "timeline": "within_1_month",
+    "region": "India"
+  },
+  {
+    "name": "Meera Kapoor",
+    "company": "Urban Spaces",
+    "email": "meera@example.com",
+    "website": "https://example.com",
+    "message": "We are looking to build a web platform to manage tenant records, rental payments, property availability and maintenance requests. We need an admin dashboard and REST API.",
+    "budget": "medium",
+    "timeline": "within_3_months",
+    "region": "India"
+  },
+  {
+    "name": "Rohan Verma",
+    "company": "BrightPath",
+    "email": "rohan@example.com",
+    "website": "",
+    "message": "We want to improve our website organic traffic through technical SEO, content optimization, CRM automation, lead generation and conversion tracking.",
+    "budget": "low",
+    "timeline": "not_shared",
+    "region": "India"
+  },
+  {
+    "name": "Nisha Rao",
+    "company": "CloudNine Labs",
+    "email": "nisha@example.com",
+    "website": "https://example.com",
+    "message": "Our application is hosted on AWS. We need help with Docker, Kubernetes deployment, CI/CD pipelines, cloud migration and infrastructure scaling.",
+    "budget": "high",
+    "timeline": "urgent",
+    "region": "India"
+  }
+]
